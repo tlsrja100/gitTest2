@@ -9,4 +9,7 @@ public class MemberDAO {
 		super();
 		this.con=con;
 	}
+	public void insert() {
+		
+	}
 }
