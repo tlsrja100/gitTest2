@@ -3,6 +3,8 @@ package gittest2;
 public class ActionForward {
 	private String path;
 	private boolean isRedirect;
+	public ActionForward(){}
+	
 	public String getPath() {
 		return path;
 	}
