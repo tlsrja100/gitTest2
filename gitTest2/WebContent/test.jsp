@@ -13,5 +13,10 @@
 		<li>git fetch</li>
 		<li>git merge</li>
 	</ul>
+	<ul>
+		<li>git pull</li>
+		<li>git log</li>
+		<li>git commit</li>
+	</ul>
 </body>
 </html>
